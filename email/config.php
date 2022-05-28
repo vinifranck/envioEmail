@@ -1,0 +1,9 @@
+<?php
+    define("DIR_PATH","C:\wamp64\www\\email");
+    define("URL_BASE","http://localhost/email/");
+    define("URL_TEMPLATE",URL_BASE."/template");
+    define("URL_IMAGENS",URL_TEMPLATE."/imagens");
+    define("EMAIL_ORIGEM","vini35634@gmail.com");
+    define("SENHA_EMAIL","vinicimol");
+    define("EMAIL_DESTINO","vini35634@gmail.com");
+?>
